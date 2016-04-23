@@ -1,6 +1,6 @@
 {
   "name": "sc-swiper",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Polymer 1.0 element that wraps Swiper.js",
   "authors": [
     "Safety Changer"
@@ -23,10 +23,10 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git://github.com/safetychanger/sc-swiper"
+    "url": "git://github.com/itnode/sc-swiper"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/safetychanger/sc-swiper",
+  "homepage": "https://github.com/itnode/sc-swiper",
   "dependencies": {
     "polymer": "latest",
     "swiper": "latest"

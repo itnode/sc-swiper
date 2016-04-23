@@ -1,6 +1,6 @@
 {
   "name": "sc-swiper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Polymer 1.0 element that wraps Swiper.js",
   "authors": [
     "Safety Changer"
